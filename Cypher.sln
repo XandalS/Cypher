@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cypher", "Cypher\Cypher.csproj", "{7C287292-B7CD-46CE-9674-98FEC61B32ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C287292-B7CD-46CE-9674-98FEC61B32ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C287292-B7CD-46CE-9674-98FEC61B32ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C287292-B7CD-46CE-9674-98FEC61B32ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C287292-B7CD-46CE-9674-98FEC61B32ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {788E7C34-2A1A-44E2-8B4B-1BA21644A185}
+	EndGlobalSection
+EndGlobal
